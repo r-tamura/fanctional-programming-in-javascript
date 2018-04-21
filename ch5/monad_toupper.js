@@ -1,4 +1,4 @@
-const R = require("rambda")
+const R = require("ramda")
 const { identity } = require("../r")
 const { Wrapper } = require("../monad")
 

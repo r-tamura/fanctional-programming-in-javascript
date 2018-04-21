@@ -1,4 +1,4 @@
-const R = require("rambda")
+const R = require("ramda")
 const DB = require("../model/db")
 const { curry, lift, compose } = require("../r")
 
