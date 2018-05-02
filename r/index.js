@@ -11,4 +11,6 @@ module.exports = {
   fork: require("./fork"),
   
   lift: require("./lift"),
+  
+  transduce: require("./transduce"),
 }
